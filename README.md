@@ -1,0 +1,1 @@
+C'est un projet libre dans lequel on créer notre propre énoncé en rédigeant un texte énonçant les contraintes du modèle demandé et contenant un modèle MCT, MCD, un script SQL avec insertion de données et requêtes de différentes difficultés.
